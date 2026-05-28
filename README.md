@@ -92,7 +92,7 @@ Outside research, I enjoy scientific discussions, mentorship, teaching, and buil
 
 ## Publications & Research Projects
 
-- Isolation, Identification and Antibiogram of Bacterial Pathogens Gotten from Cow Meat Obtained from Different Market Sources. Achievers Journal of Scientific Research, Vol. 5. No 2, 2023, pp. 72-79. <a href="https://achieverssciencejournal.org/ajosrojs/index.php/ajosr/article/view/148"> 
+- Isolation, Identification and Antibiogram of Bacterial Pathogens Gotten from Cow Meat Obtained from Different Market Sources. Achievers Journal of Scientific Research, Vol. 5. No 2, 2023, pp. 72-79. <a href="https://achieverssciencejournal.org/ajosrojs/index.php/ajosr/article/view/148"></a>
 - Systematic review: Five-year update on the Epidemiology of Methicillin Resistant Staphylococcus aureus in Africa, 2021-2025. **(in review)**
 - Systematic review: The Role of Microbial Genomics in Advancing Sustainable Biotechnology and Environmental Health in Africa. **(in review)**
 
