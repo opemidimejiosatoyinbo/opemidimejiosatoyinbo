@@ -13,7 +13,7 @@
 
 ## About Me
 
-I am currently pursuing an **MSc in Molecular Biology and Genomics** at **Redeemer’s University, Nigeria**, with a background in **Microbiology** from **Obafemi Awolowo University**.
+I am currently completing my **MSc in Molecular Biology and Genomics** at **Redeemer’s University, Ede, Nigeria**, with a background in **Microbiology** from **Obafemi Awolowo University, Ile-Ife, Nigeria**.
 
 My interests sit at the intersection of:
 
